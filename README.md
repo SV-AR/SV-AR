@@ -105,22 +105,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://dharshan-hariharan.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
-</a>
-
 <a href="mailto:dharshanhariharan2468@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
 
 ---
-
-## 🧠 Quote of the Day  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 
 
