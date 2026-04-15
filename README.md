@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Dharshan Hariharan</h1>
-<h3 align="center">🚀 AI Engineer | LLM Developer | Smart Systems Innovator</h3>
+<h1 align="center">👋 Hi, I'm ARUN SV</h1>
+<h3 align="center">🚀 SOFTWARE DEVELOPER</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;LLM+%7C+NLP+Specialist;RAG+Systems+Builder;Hackathon+Winner+🏆;Smart+City+AI+Developer;Future+Tech+Leader+🚀" />
@@ -16,9 +16,7 @@
 ## 🧠 About Me  
 
 🚀 Building **real-world AI systems** that solve impactful problems  
-🤖 Specialized in **LLMs, NLP, and RAG architectures**  
-🏆 Hackathon Winner | **TN-iMPACT Top 5 Finalist**  
-☁️ Working with **AWS & Google Cloud**  
+🤖 Specialized in **LLMs, NLP, and RAG architectures**    
 💡 Founder @ **Axentus Software & Services**  
 
 ---
@@ -26,7 +24,7 @@
 ## ⚡ Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,mysql,aws,gcp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,js,react,mysql,aws,gcp,git,github,vscode" />
 </p>
 
 ---
@@ -124,11 +122,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
 
-## 🔥 Fun Fact  
-
-💡 I don’t just write code — I build **intelligent systems that think**
 
 ---
 
