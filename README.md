@@ -37,26 +37,30 @@
 
 ## 🚀 Featured Projects  
 
-### 🏥 Personal Health Management System  
-✔ Role-based system (Doctor & Patient)  
-✔ Appointment booking & health records  
+### 🏥 Personal Health Care Management System  
+✔ Centralized web platform for managing patient health records  
+✔ Role-based access for **Doctors & Patients**  
+✔ Appointment booking, prescriptions, and medical reports  
 ✔ Built using **PHP + MySQL (XAMPP)**  
 
 ---
 
-### 💳 Fraud Detection System  
-✔ Smart transaction monitoring  
-✔ AI-based fraud detection logic  
-✔ Banking-style workflow system  
+### 📱 Mobile Tracking System  
+✔ Real-time mobile location tracking system  
+✔ Enables monitoring of device movements with improved security  
+✔ Focus on accurate tracking using location-based services  
+✔ Built using **Java / Android / GPS API**  
 
 ---
 
-### 🚚 Transport Management System  
-✔ Vehicle & route management  
-✔ Full CRUD operations  
-✔ Backend with MySQL  
+### 📄 Resume Analyzer (MERN Stack)  
+✔ Smart resume analysis platform using **MongoDB, Express, React, Node.js**  
+✔ Parses resumes and identifies **skill gaps based on job roles**  
+✔ Provides insights to improve resume quality and job matching  
+✔ Designed with scalable full-stack architecture  
 
 ---
+
 
 ## 📊 GitHub Analytics  
 
