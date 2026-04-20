@@ -61,10 +61,9 @@
 
 ---
 
-## 📊 GitHub Analytics (2026)
+### 📊 GitHub Activity & Analytics (2026)
 
-GitHub Analytics represents a summary of my development activity and contributions throughout the year **2026** on GitHub.
-
+This section highlights my development activity and contributions throughout the year **2026** on GitHub.
 ### 🔍 What it includes:
 - 📈 Total number of commits and contributions made in 2026  
 - 🔥 Contribution streak showing consistency in coding  
@@ -81,6 +80,9 @@ GitHub Analytics represents a summary of my development activity and contributio
 The analytics reflect my continuous effort to improve as a developer by building projects, learning new technologies, and contributing regularly throughout **2026**.
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SV_AR&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🌐 Connect With Me  
 
