@@ -84,6 +84,8 @@ The analytics reflect my continuous effort to improve as a developer by building
   <img src="https://github-readme-stats.vercel.app/api?username=SV-AR&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 ## 🌐 Connect With Me  
 
 <p align="center">
