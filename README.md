@@ -61,12 +61,24 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics (2025)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+GitHub Analytics represents a summary of my development activity and contributions throughout the year **2025** on GitHub.
+
+### 🔍 What it includes:
+- 📈 Total number of commits and contributions made in 2025  
+- 🔥 Contribution streak showing consistency in coding  
+- 📂 Projects and repositories created or worked on  
+- ⭐ Stars and forks received on projects  
+- 💻 Most used programming languages  
+
+### 🎯 Purpose:
+- Tracks my **coding consistency and growth**  
+- Highlights my **active involvement in development**  
+- Demonstrates my **practical skills through real projects**  
+
+### 🚀 Insight:
+The analytics reflect my continuous effort to improve as a developer by building projects, learning new technologies, and contributing regularly throughout **2025**.
 
 ---
 
