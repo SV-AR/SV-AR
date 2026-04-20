@@ -61,12 +61,12 @@
 
 ---
 
-## 📊 GitHub Analytics (2025)
+## 📊 GitHub Analytics (2026)
 
-GitHub Analytics represents a summary of my development activity and contributions throughout the year **2025** on GitHub.
+GitHub Analytics represents a summary of my development activity and contributions throughout the year **2026** on GitHub.
 
 ### 🔍 What it includes:
-- 📈 Total number of commits and contributions made in 2025  
+- 📈 Total number of commits and contributions made in 2026  
 - 🔥 Contribution streak showing consistency in coding  
 - 📂 Projects and repositories created or worked on  
 - ⭐ Stars and forks received on projects  
@@ -78,7 +78,7 @@ GitHub Analytics represents a summary of my development activity and contributio
 - Demonstrates my **practical skills through real projects**  
 
 ### 🚀 Insight:
-The analytics reflect my continuous effort to improve as a developer by building projects, learning new technologies, and contributing regularly throughout **2025**.
+The analytics reflect my continuous effort to improve as a developer by building projects, learning new technologies, and contributing regularly throughout **2026**.
 
 ---
 
