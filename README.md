@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Enthusiast | Full Stack Developer | Smart Systems Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Developer;Full+Stack+Engineer;MERN+%7C;Machine+Learning+Enthusiast;Future+Tech+Leader+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Developer;Full+Stack+Engineer;MERN+%7C;Machine+Learning+Enthusiast+🚀" />
 </p>
 
 ---
